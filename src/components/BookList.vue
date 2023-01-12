@@ -13,11 +13,11 @@
         data() {
             return {
                 title : "All Books",
-                book : [
+                books : [
                     {title: 'Self-Reliance', author: 'Ralph Waldo Emerson'},
                     {title: 'American Gods', author: 'Neil Gaiman'},
                     {title: 'Amusing Ourselves to Death', author: 'Neil Postman'},
-                ],
+                ]
             };
         },
     };
